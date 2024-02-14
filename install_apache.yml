@@ -1,0 +1,14 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+    - name: include passphrase variable
+      include_vars
+        file: passphrase.yml
+        name: passphrase
+
+    - name: install apache2 package
+      apt:
+        name: nginx

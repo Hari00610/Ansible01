@@ -1,0 +1,10 @@
+total 40
+drwxr-xr-x   9 hariomg  staff  288 Feb 13 16:35 .
+drwxr-x---+ 29 hariomg  staff  928 Feb 13 14:00 ..
+drwxr-xr-x  13 hariomg  staff  416 Feb 12 23:56 .git
+-rw-r--r--   1 hariomg  staff   68 Feb 12 23:35 README.md
+-rw-r--r--   1 hariomg  staff    0 Feb 13 16:35 info.txt
+-rwxr--r--@  1 hariomg  staff  224 Feb 13 14:00 install_apache.yml
+-rwxrwxrwx@  1 hariomg  staff   36 Feb 13 14:16 inventory.ini
+-rw-------   1 hariomg  staff  385 Feb 13 13:54 passphrase.yml
+-rw-r--r--   1 hariomg  staff  233 Feb 13 14:26 temp.yml
